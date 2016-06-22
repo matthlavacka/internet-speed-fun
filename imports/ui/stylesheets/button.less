@@ -1,0 +1,85 @@
+@import './utils.less';
+
+[class^="btn-"],
+[class*=" btn-"] {
+  -webkit-user-select: none;
+  user-select: none;
+  display: inline-block;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  text-decoration: none;
+  white-space: nowrap;
+  outline: 0;
+  color: @color-full;
+  border: none;
+  border-radius: 4px;
+  outline: none !important;
+   
+  &:hover {
+  	cursor: pointer;
+  }
+
+  &[class*="size-l"] {
+    margin: 5px;
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+
+  &[class*="size-xl"] {
+    margin: 5px;
+    font-size: 18px;
+    padding: 12px 28px;
+  }
+
+  &[class*="size-select"] {
+    width: 100%;
+    padding: 12px 32px;
+    font-size: 16px;
+    display: block;
+    clear: left;
+    text-decoration: none;
+  }
+
+  &[class*="primary"] {
+	  background-color: @color-white;
+    border: 1px solid rgba(0,0,0,0.1);
+    &:hover {border-color: rgba(0,0,0,0.3);color: @color-black;}
+    &:focus,
+    &:active, 
+    &.active {border-color: @color-hover; box-shadow: none; color:@color-black;background-color: @color-active-background}
+  }
+
+  &[class*="secondary"] {
+    -webkit-transition: all 50ms;
+    transition: all 50ms;
+    background: #fee133;
+
+    &:hover{ background-color: @color-focus; }
+  }
+
+  &[class*="moving"] {
+    box-shadow: inset 0 -3px #d0ad24;
+    &:active,
+    &.active {
+      margin-top: 7px;
+      box-shadow: none;
+    }
+  }
+
+  &[class*="share"] {
+    width: 170px;
+    text-decoration: none;
+  }
+
+  &[class*="hidden"] {
+    display: none;
+  }
+
+  &[disabled] { opacity: .5; }
+}
+
+@media screen and (max-width: 50em) {
+  .fa {
+    line-height: 26px;
+  }
+}

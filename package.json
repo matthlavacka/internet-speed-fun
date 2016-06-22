@@ -1,0 +1,18 @@
+{
+  "name": "internetspeed",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "lodash.isequal": "^4.2.0",
+    "meteor-node-stubs": "~0.2.0",
+    "path-to-regexp": "^1.5.0",
+    "rc-progress": "^1.0.4",
+    "react-native-progress": "^3.0.0",
+    "react-progressbar.js": "^0.1.2",
+    "react-social": "^1.4.0",
+    "react-youtube": "^6.1.0",
+    "react-youtube-player": "^0.3.3"
+  }
+}

@@ -1,0 +1,13 @@
+@import './utils.less';
+
+a {
+  color: @color-black;
+  cursor: pointer;
+  text-decoration: none;
+  outline: none !important;
+  &:visited, &:focus, &:active, &.active {color: @color-black;}
+  &:hover { color: @color-link;}
+  &.active {
+  	color: @color-link;
+  }
+}

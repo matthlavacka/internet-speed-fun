@@ -1,0 +1,400 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node',
+1 verbose cli   '/Users/mhlavacka/.meteor/packages/meteor-tool/.1.3.2_4.13aumsf++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '--save',
+1 verbose cli   'react-scroll' ]
+2 info using npm@2.14.22
+3 info using node@v0.10.43
+4 verbose install initial load of /Users/mhlavacka/Documents/Meteor/internetspeed/package.json
+5 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/amdefine/package.json
+6 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/asap/package.json
+7 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/babel-runtime/package.json
+8 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/base62/package.json
+9 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/core-js/package.json
+10 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/domready/package.json
+11 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/envify/package.json
+12 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/esprima-fb/package.json
+13 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/fbjs/package.json
+14 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/hoist-non-react-statics/package.json
+15 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/invariant/package.json
+16 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/js-tokens/package.json
+17 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/jstransform/package.json
+18 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/lodash._getnative/package.json
+19 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/lodash.isarguments/package.json
+20 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/lodash.isarray/package.json
+21 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/lodash.isequal/package.json
+22 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/lodash.keys/package.json
+23 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/loose-envify/package.json
+24 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/path-to-regexp/package.json
+25 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/progressbar.js/package.json
+26 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/promise/package.json
+27 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/rc-progress/package.json
+28 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react/package.json
+29 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-copy-to-clipboard/package.json
+30 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-dom/package.json
+31 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-komposer/package.json
+32 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-mounter/package.json
+33 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-native-progress/package.json
+34 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-no-ssr/package.json
+35 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-social/package.json
+36 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-youtube/package.json
+37 verbose installManyTop reading scoped package data from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/shallowequal/package.json
+38 info package.json shallowequal@0.2.2 No README data
+39 verbose readDependencies loading dependencies from /Users/mhlavacka/Documents/Meteor/internetspeed/package.json
+40 silly cache add args [ 'react-scroll', null ]
+41 verbose cache add spec react-scroll
+42 silly cache add parsed spec { raw: 'react-scroll',
+42 silly cache add   scope: null,
+42 silly cache add   name: 'react-scroll',
+42 silly cache add   rawSpec: '',
+42 silly cache add   spec: 'latest',
+42 silly cache add   type: 'tag' }
+43 silly addNamed react-scroll@latest
+44 verbose addNamed "latest" is being treated as a dist-tag for react-scroll
+45 info addNameTag [ 'react-scroll', 'latest' ]
+46 silly mapToRegistry name react-scroll
+47 silly mapToRegistry using default registry
+48 silly mapToRegistry registry https://registry.npmjs.org/
+49 silly mapToRegistry uri https://registry.npmjs.org/react-scroll
+50 verbose addNameTag registry:https://registry.npmjs.org/react-scroll not in flight; fetching
+51 verbose request uri https://registry.npmjs.org/react-scroll
+52 verbose request no auth needed
+53 info attempt registry request try #1 at 01:46:11
+54 verbose request id 7b5ca67ae01b667d
+55 http request GET https://registry.npmjs.org/react-scroll
+56 http 200 https://registry.npmjs.org/react-scroll
+57 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+57 verbose headers   etag: '"BJUF0I970H7YSU7XZO2QVJ296"',
+57 verbose headers   'content-type': 'application/json',
+57 verbose headers   'content-encoding': 'gzip',
+57 verbose headers   'cache-control': 'max-age=300',
+57 verbose headers   'content-length': '7595',
+57 verbose headers   'accept-ranges': 'bytes',
+57 verbose headers   date: 'Sun, 05 Jun 2016 23:46:12 GMT',
+57 verbose headers   via: '1.1 varnish',
+57 verbose headers   age: '0',
+57 verbose headers   connection: 'keep-alive',
+57 verbose headers   'x-served-by': 'cache-ams4144-AMS',
+57 verbose headers   'x-cache': 'MISS',
+57 verbose headers   'x-cache-hits': '0',
+57 verbose headers   'x-timer': 'S1465170371.936578,VS0,VE726',
+57 verbose headers   vary: 'Accept-Encoding' }
+58 silly get cb [ 200,
+58 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+58 silly get     etag: '"BJUF0I970H7YSU7XZO2QVJ296"',
+58 silly get     'content-type': 'application/json',
+58 silly get     'content-encoding': 'gzip',
+58 silly get     'cache-control': 'max-age=300',
+58 silly get     'content-length': '7595',
+58 silly get     'accept-ranges': 'bytes',
+58 silly get     date: 'Sun, 05 Jun 2016 23:46:12 GMT',
+58 silly get     via: '1.1 varnish',
+58 silly get     age: '0',
+58 silly get     connection: 'keep-alive',
+58 silly get     'x-served-by': 'cache-ams4144-AMS',
+58 silly get     'x-cache': 'MISS',
+58 silly get     'x-cache-hits': '0',
+58 silly get     'x-timer': 'S1465170371.936578,VS0,VE726',
+58 silly get     vary: 'Accept-Encoding' } ]
+59 verbose get saving react-scroll to /Users/mhlavacka/.npm/registry.npmjs.org/react-scroll/.cache.json
+60 verbose correctMkdir /Users/mhlavacka/.npm correctMkdir not in flight; initializing
+61 silly addNameTag next cb for react-scroll with tag latest
+62 silly addNamed react-scroll@1.0.16
+63 verbose addNamed "1.0.16" is a plain semver version for react-scroll
+64 silly mapToRegistry name react-scroll
+65 silly mapToRegistry using default registry
+66 silly mapToRegistry registry https://registry.npmjs.org/
+67 silly mapToRegistry uri https://registry.npmjs.org/react-scroll
+68 verbose addRemoteTarball https://registry.npmjs.org/react-scroll/-/react-scroll-1.0.16.tgz not in flight; adding
+69 verbose addRemoteTarball [ 'https://registry.npmjs.org/react-scroll/-/react-scroll-1.0.16.tgz',
+69 verbose addRemoteTarball   '8b287861db4204290d8f759ecef6c5468489c39a' ]
+70 info retry fetch attempt 1 at 01:46:12
+71 info attempt registry request try #1 at 01:46:12
+72 http fetch GET https://registry.npmjs.org/react-scroll/-/react-scroll-1.0.16.tgz
+73 http fetch 200 https://registry.npmjs.org/react-scroll/-/react-scroll-1.0.16.tgz
+74 silly fetchAndShaCheck shasum 8b287861db4204290d8f759ecef6c5468489c39a
+75 verbose addTmpTarball /var/folders/t5/s4tvg70j259_q2hyt_m9kvc80000gn/T/npm-12466-ce9e5607/registry.npmjs.org/react-scroll/-/react-scroll-1.0.16.tgz not in flight; adding
+76 verbose addTmpTarball already have metadata; skipping unpack for react-scroll@1.0.16
+77 verbose correctMkdir /Users/mhlavacka/.npm correctMkdir not in flight; initializing
+78 silly cache afterAdd react-scroll@1.0.16
+79 verbose afterAdd /Users/mhlavacka/.npm/react-scroll/1.0.16/package/package.json not in flight; writing
+80 verbose correctMkdir /Users/mhlavacka/.npm correctMkdir not in flight; initializing
+81 verbose afterAdd /Users/mhlavacka/.npm/react-scroll/1.0.16/package/package.json written
+82 silly install resolved [ { name: 'react-scroll',
+82 silly install resolved     version: '1.0.16',
+82 silly install resolved     description: 'A scroll component for React.js',
+82 silly install resolved     main: 'lib',
+82 silly install resolved     repository:
+82 silly install resolved      { type: 'git',
+82 silly install resolved        url: 'git+https://github.com/fisshy/react-scroll.git' },
+82 silly install resolved     homepage: 'https://github.com/fisshy/react-scroll',
+82 silly install resolved     bugs: { url: 'https://github.com/fisshy/react-scroll/issues' },
+82 silly install resolved     authors: [ 'Joachim Karlsson' ],
+82 silly install resolved     license: 'MIT',
+82 silly install resolved     tags: [ 'react', 'scroll' ],
+82 silly install resolved     keywords:
+82 silly install resolved      [ 'react',
+82 silly install resolved        'react-component',
+82 silly install resolved        'scroll',
+82 silly install resolved        'scroller',
+82 silly install resolved        'scrolls',
+82 silly install resolved        'scrolling  ' ],
+82 silly install resolved     dependencies: { 'object-assign': '^4.0.1' },
+82 silly install resolved     perDependencies: { react: '^15.0.1', 'react-dom': '^15.0.1' },
+82 silly install resolved     _id: 'react-scroll@1.0.16',
+82 silly install resolved     scripts: {},
+82 silly install resolved     _shasum: '8b287861db4204290d8f759ecef6c5468489c39a',
+82 silly install resolved     _from: 'react-scroll@latest',
+82 silly install resolved     _npmVersion: '3.8.8',
+82 silly install resolved     _nodeVersion: '6.0.0',
+82 silly install resolved     _npmUser: { name: 'fisshy', email: 'joachim@causam.se' },
+82 silly install resolved     dist:
+82 silly install resolved      { shasum: '8b287861db4204290d8f759ecef6c5468489c39a',
+82 silly install resolved        tarball: 'https://registry.npmjs.org/react-scroll/-/react-scroll-1.0.16.tgz' },
+82 silly install resolved     maintainers: [ [Object] ],
+82 silly install resolved     _npmOperationalInternal:
+82 silly install resolved      { host: 'packages-12-west.internal.npmjs.com',
+82 silly install resolved        tmp: 'tmp/react-scroll-1.0.16.tgz_1462991018474_0.49639975116588175' },
+82 silly install resolved     directories: {},
+82 silly install resolved     _resolved: 'https://registry.npmjs.org/react-scroll/-/react-scroll-1.0.16.tgz' } ]
+83 info install react-scroll@1.0.16 into /Users/mhlavacka/Documents/Meteor/internetspeed
+84 info installOne react-scroll@1.0.16
+85 verbose installOne of react-scroll to /Users/mhlavacka/Documents/Meteor/internetspeed not in flight; installing
+86 verbose correctMkdir /Users/mhlavacka/.npm/_locks correctMkdir not in flight; initializing
+87 verbose lock using /Users/mhlavacka/.npm/_locks/react-scroll-7e8d20d931c1a9f7.lock for /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll
+88 silly install write writing react-scroll 1.0.16 to /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll
+89 verbose unbuild node_modules/react-scroll
+90 silly gentlyRm /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll is being purged from base /Users/mhlavacka/Documents/Meteor/internetspeed
+91 verbose gentlyRm don't care about contents; nuking /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll
+92 verbose tar unpack /Users/mhlavacka/.npm/react-scroll/1.0.16/package.tgz
+93 verbose tar unpacking to /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll
+94 silly gentlyRm /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll is being purged
+95 verbose gentlyRm don't care about contents; nuking /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll
+96 silly gunzTarPerm modes [ '755', '644' ]
+97 silly gunzTarPerm extractEntry package.json
+98 silly gunzTarPerm extractEntry README.md
+99 silly gunzTarPerm extractEntry lib/index.js
+100 silly gunzTarPerm extractEntry lib/__tests__/animate-scroll-test.js
+101 silly gunzTarPerm extractEntry lib/__tests__/element-test.js
+102 silly gunzTarPerm extractEntry lib/__tests__/events-test.js
+103 silly gunzTarPerm extractEntry lib/__tests__/link-test.js
+104 silly gunzTarPerm extractEntry lib/__tests__/page-test.js
+105 silly gunzTarPerm extractEntry lib/components/Button.js
+106 silly gunzTarPerm extractEntry lib/components/DirectLink.js
+107 silly gunzTarPerm extractEntry lib/components/Element.js
+108 silly gunzTarPerm extractEntry lib/components/Link.js
+109 silly gunzTarPerm extractEntry lib/mixins/Helpers.js
+110 silly gunzTarPerm extractEntry lib/mixins/animate-scroll.js
+111 silly gunzTarPerm extractEntry lib/mixins/cancel-events.js
+112 silly gunzTarPerm extractEntry lib/mixins/direct-scroller.js
+113 silly gunzTarPerm extractEntry lib/mixins/scroll-events.js
+114 silly gunzTarPerm extractEntry lib/mixins/scroll-spy.js
+115 silly gunzTarPerm extractEntry lib/mixins/scroller.js
+116 silly gunzTarPerm extractEntry lib/mixins/smooth.js
+117 verbose write writing to /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/package.json
+118 info preinstall react-scroll@1.0.16
+119 verbose readDependencies loading dependencies from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/package.json
+120 silly prepareForInstallMany adding object-assign@^4.0.1 from react-scroll dependencies
+121 verbose readDependencies loading dependencies from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/package.json
+122 silly cache add args [ 'object-assign@^4.0.1', null ]
+123 verbose cache add spec object-assign@^4.0.1
+124 silly cache add parsed spec { raw: 'object-assign@^4.0.1',
+124 silly cache add   scope: null,
+124 silly cache add   name: 'object-assign',
+124 silly cache add   rawSpec: '^4.0.1',
+124 silly cache add   spec: '>=4.0.1 <5.0.0',
+124 silly cache add   type: 'range' }
+125 silly addNamed object-assign@>=4.0.1 <5.0.0
+126 verbose addNamed ">=4.0.1 <5.0.0" is a valid semver range for object-assign
+127 silly addNameRange { name: 'object-assign',
+127 silly addNameRange   range: '>=4.0.1 <5.0.0',
+127 silly addNameRange   hasData: false }
+128 silly mapToRegistry name object-assign
+129 silly mapToRegistry using default registry
+130 silly mapToRegistry registry https://registry.npmjs.org/
+131 silly mapToRegistry uri https://registry.npmjs.org/object-assign
+132 verbose addNameRange registry:https://registry.npmjs.org/object-assign not in flight; fetching
+133 verbose request uri https://registry.npmjs.org/object-assign
+134 verbose request no auth needed
+135 info attempt registry request try #1 at 01:46:13
+136 verbose etag "4082CE2TL2G1PY6BRZ95CCKX5"
+137 http request GET https://registry.npmjs.org/object-assign
+138 http 200 https://registry.npmjs.org/object-assign
+139 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+139 verbose headers   etag: '"D919H5AASM306F0R30AX8WDR7"',
+139 verbose headers   'content-type': 'application/json',
+139 verbose headers   'content-encoding': 'gzip',
+139 verbose headers   'cache-control': 'max-age=300',
+139 verbose headers   'content-length': '3601',
+139 verbose headers   'accept-ranges': 'bytes',
+139 verbose headers   date: 'Sun, 05 Jun 2016 23:46:13 GMT',
+139 verbose headers   via: '1.1 varnish',
+139 verbose headers   age: '277',
+139 verbose headers   connection: 'keep-alive',
+139 verbose headers   'x-served-by': 'cache-ams4146-AMS',
+139 verbose headers   'x-cache': 'HIT',
+139 verbose headers   'x-cache-hits': '6',
+139 verbose headers   'x-timer': 'S1465170373.322092,VS0,VE0',
+139 verbose headers   vary: 'Accept-Encoding' }
+140 silly get cb [ 200,
+140 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+140 silly get     etag: '"D919H5AASM306F0R30AX8WDR7"',
+140 silly get     'content-type': 'application/json',
+140 silly get     'content-encoding': 'gzip',
+140 silly get     'cache-control': 'max-age=300',
+140 silly get     'content-length': '3601',
+140 silly get     'accept-ranges': 'bytes',
+140 silly get     date: 'Sun, 05 Jun 2016 23:46:13 GMT',
+140 silly get     via: '1.1 varnish',
+140 silly get     age: '277',
+140 silly get     connection: 'keep-alive',
+140 silly get     'x-served-by': 'cache-ams4146-AMS',
+140 silly get     'x-cache': 'HIT',
+140 silly get     'x-cache-hits': '6',
+140 silly get     'x-timer': 'S1465170373.322092,VS0,VE0',
+140 silly get     vary: 'Accept-Encoding' } ]
+141 verbose get saving object-assign to /Users/mhlavacka/.npm/registry.npmjs.org/object-assign/.cache.json
+142 verbose correctMkdir /Users/mhlavacka/.npm correctMkdir not in flight; initializing
+143 silly addNameRange number 2 { name: 'object-assign', range: '>=4.0.1 <5.0.0', hasData: true }
+144 silly addNameRange versions [ 'object-assign',
+144 silly addNameRange   [ '0.1.0',
+144 silly addNameRange     '0.1.1',
+144 silly addNameRange     '0.1.2',
+144 silly addNameRange     '0.2.0',
+144 silly addNameRange     '0.2.1',
+144 silly addNameRange     '0.2.2',
+144 silly addNameRange     '0.3.0',
+144 silly addNameRange     '0.3.1',
+144 silly addNameRange     '0.4.0',
+144 silly addNameRange     '1.0.0',
+144 silly addNameRange     '2.0.0',
+144 silly addNameRange     '3.0.0',
+144 silly addNameRange     '2.1.1',
+144 silly addNameRange     '4.0.0',
+144 silly addNameRange     '4.0.1',
+144 silly addNameRange     '4.1.0' ] ]
+145 silly addNamed object-assign@4.1.0
+146 verbose addNamed "4.1.0" is a plain semver version for object-assign
+147 silly cache afterAdd object-assign@4.1.0
+148 verbose afterAdd /Users/mhlavacka/.npm/object-assign/4.1.0/package/package.json not in flight; writing
+149 verbose correctMkdir /Users/mhlavacka/.npm correctMkdir not in flight; initializing
+150 verbose afterAdd /Users/mhlavacka/.npm/object-assign/4.1.0/package/package.json written
+151 silly install resolved [ { name: 'object-assign',
+151 silly install resolved     version: '4.1.0',
+151 silly install resolved     description: 'ES2015 Object.assign() ponyfill',
+151 silly install resolved     license: 'MIT',
+151 silly install resolved     repository:
+151 silly install resolved      { type: 'git',
+151 silly install resolved        url: 'git+https://github.com/sindresorhus/object-assign.git' },
+151 silly install resolved     author:
+151 silly install resolved      { name: 'Sindre Sorhus',
+151 silly install resolved        email: 'sindresorhus@gmail.com',
+151 silly install resolved        url: 'sindresorhus.com' },
+151 silly install resolved     engines: { node: '>=0.10.0' },
+151 silly install resolved     scripts: { test: 'xo && mocha', bench: 'matcha bench.js' },
+151 silly install resolved     files: [ 'index.js' ],
+151 silly install resolved     keywords:
+151 silly install resolved      [ 'object',
+151 silly install resolved        'assign',
+151 silly install resolved        'extend',
+151 silly install resolved        'properties',
+151 silly install resolved        'es2015',
+151 silly install resolved        'ecmascript',
+151 silly install resolved        'harmony',
+151 silly install resolved        'ponyfill',
+151 silly install resolved        'prollyfill',
+151 silly install resolved        'polyfill',
+151 silly install resolved        'shim',
+151 silly install resolved        'browser' ],
+151 silly install resolved     devDependencies: { lodash: '^4.8.2', matcha: '^0.7.0', mocha: '*', xo: '*' },
+151 silly install resolved     gitHead: '72fe21c86911758f3342fdf41c2a57860d5829bc',
+151 silly install resolved     bugs: { url: 'https://github.com/sindresorhus/object-assign/issues' },
+151 silly install resolved     homepage: 'https://github.com/sindresorhus/object-assign#readme',
+151 silly install resolved     _id: 'object-assign@4.1.0',
+151 silly install resolved     _shasum: '7a3b3d0e98063d43f4c03f2e8ae6cd51a86883a0',
+151 silly install resolved     _from: 'object-assign@>=4.0.1 <5.0.0',
+151 silly install resolved     _npmVersion: '2.14.19',
+151 silly install resolved     _nodeVersion: '4.1.0',
+151 silly install resolved     _npmUser: { name: 'spicyj', email: 'ben@benalpert.com' },
+151 silly install resolved     maintainers: [ [Object], [Object] ],
+151 silly install resolved     dist:
+151 silly install resolved      { shasum: '7a3b3d0e98063d43f4c03f2e8ae6cd51a86883a0',
+151 silly install resolved        tarball: 'https://registry.npmjs.org/object-assign/-/object-assign-4.1.0.tgz' },
+151 silly install resolved     _npmOperationalInternal:
+151 silly install resolved      { host: 'packages-16-east.internal.npmjs.com',
+151 silly install resolved        tmp: 'tmp/object-assign-4.1.0.tgz_1462212593641_0.3332549517508596' },
+151 silly install resolved     directories: {},
+151 silly install resolved     _resolved: 'https://registry.npmjs.org/object-assign/-/object-assign-4.1.0.tgz',
+151 silly install resolved     readme: 'ERROR: No README data found!' } ]
+152 info install object-assign@4.1.0 into /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll
+153 info installOne object-assign@4.1.0
+154 verbose installOne of object-assign to /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll not in flight; installing
+155 verbose correctMkdir /Users/mhlavacka/.npm/_locks correctMkdir not in flight; initializing
+156 verbose lock using /Users/mhlavacka/.npm/_locks/object-assign-d38c5470cfe5da8e.lock for /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/node_modules/object-assign
+157 silly install write writing object-assign 4.1.0 to /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/node_modules/object-assign
+158 verbose unbuild node_modules/react-scroll/node_modules/object-assign
+159 silly gentlyRm /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/node_modules/object-assign is being purged from base /Users/mhlavacka/Documents/Meteor/internetspeed
+160 verbose gentlyRm don't care about contents; nuking /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/node_modules/object-assign
+161 verbose tar unpack /Users/mhlavacka/.npm/object-assign/4.1.0/package.tgz
+162 verbose tar unpacking to /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/node_modules/object-assign
+163 silly gentlyRm /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/node_modules/object-assign is being purged
+164 verbose gentlyRm don't care about contents; nuking /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/node_modules/object-assign
+165 silly gunzTarPerm modes [ '755', '644' ]
+166 silly gunzTarPerm extractEntry package.json
+167 silly gunzTarPerm extractEntry index.js
+168 silly gunzTarPerm extractEntry license
+169 silly gunzTarPerm extractEntry readme.md
+170 verbose write writing to /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/node_modules/object-assign/package.json
+171 info preinstall object-assign@4.1.0
+172 verbose readDependencies loading dependencies from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/node_modules/object-assign/package.json
+173 verbose readDependencies loading dependencies from /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/node_modules/object-assign/package.json
+174 silly install resolved []
+175 verbose about to build /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/node_modules/object-assign
+176 info build /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/node_modules/object-assign
+177 info linkStuff object-assign@4.1.0
+178 silly linkStuff object-assign@4.1.0 has /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/node_modules as its parent node_modules
+179 verbose linkBins object-assign@4.1.0
+180 verbose linkMans object-assign@4.1.0
+181 verbose rebuildBundles object-assign@4.1.0
+182 info install object-assign@4.1.0
+183 info postinstall object-assign@4.1.0
+184 verbose unlock done using /Users/mhlavacka/.npm/_locks/object-assign-d38c5470cfe5da8e.lock for /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll/node_modules/object-assign
+185 verbose about to build /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll
+186 info build /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll
+187 info linkStuff react-scroll@1.0.16
+188 silly linkStuff react-scroll@1.0.16 has /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules as its parent node_modules
+189 verbose linkBins react-scroll@1.0.16
+190 verbose linkMans react-scroll@1.0.16
+191 verbose rebuildBundles react-scroll@1.0.16
+192 verbose rebuildBundles [ 'object-assign' ]
+193 info install react-scroll@1.0.16
+194 info postinstall react-scroll@1.0.16
+195 verbose unlock done using /Users/mhlavacka/.npm/_locks/react-scroll-7e8d20d931c1a9f7.lock for /Users/mhlavacka/Documents/Meteor/internetspeed/node_modules/react-scroll
+196 verbose validateInstall loading /Users/mhlavacka/Documents/Meteor/internetspeed/package.json for validation
+197 verbose stack Error: The package react@15.1.0 does not satisfy its siblings' peerDependencies requirements!
+197 verbose stack     at /Users/mhlavacka/.meteor/packages/meteor-tool/.1.3.2_4.13aumsf++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/lib/node_modules/npm/lib/install.js:125:32
+197 verbose stack     at /Users/mhlavacka/.meteor/packages/meteor-tool/.1.3.2_4.13aumsf++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/lib/node_modules/npm/lib/install.js:268:7
+197 verbose stack     at /Users/mhlavacka/.meteor/packages/meteor-tool/.1.3.2_4.13aumsf++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/lib/node_modules/npm/node_modules/read-installed/read-installed.js:142:5
+197 verbose stack     at /Users/mhlavacka/.meteor/packages/meteor-tool/.1.3.2_4.13aumsf++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+197 verbose stack     at cb (/Users/mhlavacka/.meteor/packages/meteor-tool/.1.3.2_4.13aumsf++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+197 verbose stack     at /Users/mhlavacka/.meteor/packages/meteor-tool/.1.3.2_4.13aumsf++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+197 verbose stack     at cb (/Users/mhlavacka/.meteor/packages/meteor-tool/.1.3.2_4.13aumsf++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+197 verbose stack     at /Users/mhlavacka/.meteor/packages/meteor-tool/.1.3.2_4.13aumsf++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+197 verbose stack     at cb (/Users/mhlavacka/.meteor/packages/meteor-tool/.1.3.2_4.13aumsf++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+197 verbose stack     at /Users/mhlavacka/.meteor/packages/meteor-tool/.1.3.2_4.13aumsf++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+198 verbose cwd /Users/mhlavacka/Documents/Meteor/internetspeed
+199 error Darwin 15.4.0
+200 error argv "node" "/Users/mhlavacka/.meteor/packages/meteor-tool/.1.3.2_4.13aumsf++os.osx.x86_64+web.browser+web.cordova/mt-os.osx.x86_64/dev_bundle/bin/npm" "install" "--save" "react-scroll"
+201 error node v0.10.43
+202 error npm  v2.14.22
+203 error code EPEERINVALID
+204 error peerinvalid The package react@15.1.0 does not satisfy its siblings' peerDependencies requirements!
+204 error peerinvalid Peer react-social@1.4.0 wants react@>=0.13.0
+204 error peerinvalid Peer react-youtube@6.1.0 wants react@>=0.14.1
+204 error peerinvalid Peer react-dom@0.14.8 wants react@^0.14.8
+204 error peerinvalid Peer react-komposer@1.8.0 wants react@^0.14.3 || ^15.0.0
+204 error peerinvalid Peer react-mounter@1.2.0 wants react@0.14.x || 15.x.x
+204 error peerinvalid Peer react-no-ssr@1.1.0 wants react@^0.14.0 || ^15.0.0
+204 error peerinvalid Peer react-copy-to-clipboard@4.1.0 wants react@^0.14 || ^15
+205 verbose exit [ 1, true ]

@@ -1,0 +1,43 @@
+@import './utils.less';
+
+// All inputs
+input {
+  // Sizing
+  width: 100%;
+  max-width: 22em;
+  font-size: 14px;
+  padding: 0.5em 1em 0.5em;
+  font-weight: 400;
+  border: 1px solid rgba(0,0,0,0.15);
+  border-radius: 0.3em;
+  -webkit-transition: border-color .15s ease-out;
+  -moz-transition: border-color .15s ease-out;
+  -ms-transition: border-color .15s ease-out;
+  -o-transition: border-color .15s ease-out;
+  transition: border-color .15s ease-out;
+  &:hover, &:focus {
+    border-color: rgba(0,0,0,0.3);
+  }
+}
+// Standard text input
+input[type="text"] {
+  // Style
+  ::placeholder {
+    color: @color-complementary;
+  }
+  box-sizing: border-box;
+  color: @color-full;
+  outline: none;
+
+  &[disabled] { opacity: .5; }
+}
+
+input[type="submit"] {
+
+}
+
+// Remove chrome/saf autofill yellow background
+input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 1000px @color-empty inset;
+}
+

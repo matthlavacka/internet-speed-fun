@@ -1,0 +1,55 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+# meteor libraries
+meteor-base
+ecmascript
+es5-shim
+check
+tracker
+session
+
+# standard libraries
+jquery
+underscore
+less
+
+# data
+mongo
+http
+
+# mobile
+mobile-experience
+
+# ui
+sergeyt:typeahead
+fortawesome:fontawesome
+twbs:bootstrap
+blaze-html-templates
+reactive-var
+
+# automated
+percolate:synced-cron
+meteorhacks:aggregate
+
+# routing
+kadira:flow-router-ssr
+kadira:dochead
+yasaricli:slugify
+zimme:active-route
+
+# environment
+mrt:allow-env
+
+# production
+standard-minifier-js
+
+# social
+biasport:facebook-sdk
+
+# analytics
+meteorhacks:kadira
+okgrow:analytics
